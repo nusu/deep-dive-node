@@ -1,3 +1,7 @@
+// 
+// ES6
+// 
+
 var obj = {
 	name: 'Nusu Alabuğa',
 	greet: function(){

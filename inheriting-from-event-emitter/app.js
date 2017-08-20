@@ -1,3 +1,11 @@
+// 
+// Not: util.inherits sadece prototypeları chaine alır
+// birden fazla constructor varsa bunları .call(this) ile çalıştırmak gerekir
+// bakınız
+// hata için: app2.js
+// çözüm için: app2-fixed.js
+// 
+
 var EventEmitter = require('events');
 var util		 = require('util');
 
