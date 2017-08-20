@@ -1,4 +1,9 @@
+// 
+// Custom Event Emitter
+// 
 var Emitter = require('./emitter');
+// Node JS Core Event Emitter
+// var Emitter = require('./events');
 
 var emtr = new Emitter();
 
