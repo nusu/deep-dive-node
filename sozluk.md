@@ -60,3 +60,9 @@ Kodun içinde erişebildiğin variable ve fonksiyonlardır
 ### Mutate
 Bir şeyi değiştirmek
 örneğin: bir object'e method veya property eklediysen, bu object mutate edilmiş "mutated" olur.
+
+### Template Literal
+A way to concatenate strings in ES6
+
+### Syntactic Sugar
+A feature that only changes how you type something, but nothing changes under the hood
