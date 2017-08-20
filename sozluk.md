@@ -50,7 +50,7 @@ Object olmayan herhangi bir value
 // primitive
 var prim = 1;
 // non-primitive
-var non-prim = {};
+var nonPrim = {};
 ```
 
 ### Scope
