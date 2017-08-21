@@ -24,6 +24,7 @@ var util		 = require('util');
 // 
 
 class Greetr extends EventEmitter{
+
 	constructor() {
 		// 
 		// EventEmittera empty this objectini mutate ettir
